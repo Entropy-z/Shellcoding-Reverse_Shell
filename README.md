@@ -1,4 +1,4 @@
-# Shellcoding - Stager & Local Inject
+# Shellcoding - Reverse Shell
 
 The development of a shellcode as a reverse shell using cmd.exe. The project is divided into two distinct parts: the Ldr and the Shellcode.
 
